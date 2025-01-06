@@ -1,1 +1,1 @@
-# case-study
+Telephone churn case-study
